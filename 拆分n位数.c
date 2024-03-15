@@ -1,4 +1,4 @@
-//拆一个n位数
+
 #include<stdio.h>
 int main()
 {
